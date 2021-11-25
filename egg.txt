@@ -1,0 +1,4 @@
+11 person1 1000
+22 person2 1500
+33 person3 2000
+54 person4 4000
